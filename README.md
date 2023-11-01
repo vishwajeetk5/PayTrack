@@ -1,2 +1,3 @@
 # PayTrack
-The C++ "PayTrack" is an OOP project for budgeting and expense tracking. It offers user-friendly input, budget vs. actual analysis, data storage, detailed reporting, and error handling. A tool to manage finances efficiently.
+This C++ project is an "Expense Management System" that allows users to input and analyze monthly budgets and expenses. Key concepts include Object-Oriented Programming, File Handling, Exception Handling, and Inheritance. The program features user-friendly input, budget vs. actual expense analysis, persistent storage of data, detailed reporting, and error handling. It provides a structured approach to managing finances and empowers users to track their financial performance over time.
+![image](https://github.com/vishwajeetk5/PayTrack/assets/119106702/bc623fb2-cf43-447d-8d4a-f9df414aee58)
