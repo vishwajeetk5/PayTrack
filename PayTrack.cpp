@@ -46,7 +46,7 @@ public:
 void MonthlyBudget::MonthlyBudget::describeProgram()
 {
     cout << "--------------------------------------------------------------------\n";
-    cout << "|                       EXPENSE MANAGEMENT SYSTEM                            |\n";
+    cout << "|                       PAYTRACK                                    |\n";
     cout << "--------------------------------------------------------------------\n";
 }
 
