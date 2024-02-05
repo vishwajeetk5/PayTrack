@@ -103,7 +103,7 @@ void MonthlyBudget::getMonthlyBudget(fstream &budgetFile, int months)
             cin >> mb.clothinng;
             cout << "10.Miscellaneous   : ";
             cin >> mb.misc;
-            cout << "--------------------------------------------------------------------\n";
+            cout << "------------------------------------------------------------------\n";
 
             budgetFile.write(reinterpret_cast<char *>(&mb), sizeof(mb));
             count++;
